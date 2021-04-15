@@ -1,0 +1,15 @@
+.hide{
+    display: none;
+} 
+
+.payment_method_cod{
+    display: none;
+}
+
+#billing_choose_ris option{
+    display: none;
+}
+
+/*#billing_check_ris_field{
+    display: none;
+}
